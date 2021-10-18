@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.listItem {
+  list-style: none;
+  padding: 10px 5px;
+  background-color: bisque;
+  border-radius: 5px;
+}
 
 @keyframes App-logo-spin {
   from {
